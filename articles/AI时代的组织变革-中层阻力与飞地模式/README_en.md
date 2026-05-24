@@ -1,11 +1,12 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Celnet-AI/Celnet-AI-Lab/main/assets/header.png" width="600" alt="Celnet AI Lab"/>
+</p>
+
+<p align="center">
   <a href="./README.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-DFE0E5"></a>
   <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Celnet-AI/Celnet-AI-Lab/main/assets/header.png" width="600" alt="Celnet AI Lab"/>
-</p>
 
 # Organizational Change in the AI Era: Middle-Management Resistance and the Enclave Model
 
