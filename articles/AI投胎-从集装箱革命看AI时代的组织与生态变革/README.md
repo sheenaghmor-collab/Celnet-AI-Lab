@@ -3,6 +3,10 @@
   <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Celnet-AI/Celnet-AI-Lab/main/assets/header.png" width="600" alt="Celnet AI Lab"/>
+</p>
+
 ---
 
 **出品单位**：北京雨花石云计算科技股份有限公司**公司官网**：www.celnet.com.cn**文档作者**：Panda Liu（CEO）**创建日期**：2026-05-23

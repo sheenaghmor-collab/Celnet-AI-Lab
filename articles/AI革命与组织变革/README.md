@@ -3,6 +3,10 @@
   <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Celnet-AI/Celnet-AI-Lab/main/assets/header.png" width="600" alt="Celnet AI Lab"/>
+</p>
+
 # AI革命与组织变革
 
 ## ——技术、政治与组织变革的三重奏
