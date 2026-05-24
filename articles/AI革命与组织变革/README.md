@@ -3,6 +3,8 @@
   <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
 </p>
 
+# AI革命与组织变革
+
 ## ——技术、政治与组织变革的三重奏
 
 **兼论中国企业在 AI 革命中的"拿破仑窗口"**
