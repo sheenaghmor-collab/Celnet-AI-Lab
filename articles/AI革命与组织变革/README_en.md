@@ -1,29 +1,14 @@
-# AI Revolution and Organizational Change: The Triple Symphony of Technology, Politics, and Organizational Transformation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Celnet-AI/Celnet-AI-Lab/main/assets/header.png" width="600" alt="Celnet AI Lab"/>
+</p>
 
 <p align="center">
   <a href="./README.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-DFE0E5"></a>
   <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
 </p>
 
----
 
-**Subtitle**: On the "Napoleon Window" for Chinese Enterprises in the AI Revolution  
-**Author**: Panda Liu  
-**Affiliation**: Beijing Rainflower Cloud Computing Technology Co., Ltd.  
-**Date**: May 2026  
-**Version**: V1.0
-
----
-
-## A Compressed Revolution
-
-From 1789 to 1840, France completed what historians call the **Dual Revolution** — political revolution (the French Revolution) and industrial revolution (steam engines, railways, factory systems) — in roughly 50 years.
-
-Historians describe that period as the "age of revolution," but it was not one revolution but two mutually reinforcing revolutions unfolding simultaneously: political revolution redefined the structure of power, industrial revolution redefined the structure of production. The two occurred at the same time, amplifying each other, making that 50-year period's density of change far exceed any peaceful evolutionary era.
-
-**The AI revolution is repeating this process at an accelerated pace — but not two, three: technological revolution, political revolution, and organizational revolution, compressed simultaneously into the same timeline.** And this time, from the Transformer (2017) to today — less than 10 years — we are already witnessing it.
-
----
+# AI Revolution and Organizational Change
 
 ## The Triple Symphony of the AI Revolution
 
