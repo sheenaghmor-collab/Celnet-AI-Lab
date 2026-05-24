@@ -1,6 +1,11 @@
-![English](https://img.shields.io/badge/-English-356A9F?style=flat-square) &nbsp; ![中文](https://img.shields.io/badge/-中文-356A9F?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fcelnet-ai-lab%2Fcelnet-ai-lab%2Fblob%2Fmain%2Farticles%2FAI%E9%9D%A9%E5%91%BD%E4%B8%8E%E7%BB%84%E7%BB%87%E5%8F%98%E9%9D%A9%2FREADME.md)
-
 # AI Revolution and Organizational Change: The Triple Symphony of Technology, Politics, and Organizational Transformation
+
+<p align="center">
+  <a href="./README.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-DFE0E5"></a>
+  <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
+</p>
+
+---
 
 **Subtitle**: On the "Napoleon Window" for Chinese Enterprises in the AI Revolution  
 **Author**: Panda Liu  

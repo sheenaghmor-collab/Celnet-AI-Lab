@@ -1,6 +1,11 @@
-![English](https://img.shields.io/badge/-English-356A9F?style=flat-square) &nbsp; ![中文](https://img.shields.io/badge/-中文-356A9F?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fcelnet-ai-lab%2Fcelnet-ai-lab%2Fblob%2Fmain%2Farticles%2FAI%E6%8A%95%E8%83%8E-%E4%BB%8E%E9%9B%86%E8%A3%85%E9%9D%A9%E5%91%BD%E7%9C%8BAI%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BB%84%E7%BB%87%E4%B8%8E%E7%94%9F%E6%80%81%E5%8F%98%E9%9D%A9%2FREADME.md)
-
 # AI Reincarnation: Organizational and Ecosystem Transformation in the AI Era, Seen Through the Container Revolution
+
+<p align="center">
+  <a href="./README.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-DFE0E5"></a>
+  <a href="./README_en.md"><img alt="English" src="https://img.shields.io/badge/English-DBEDFA"></a>
+</p>
+
+---
 
 **Produced by**: Beijing Rainflower Cloud Computing Technology Co., Ltd.  
 **Author**: Panda Liu (CEO)  
