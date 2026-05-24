@@ -14,6 +14,4 @@
 
 ---
 
-> 每篇文章均提供中文版与英文版，链接在各自 README 顶部。
-> 
-> 北京雨花石云计算科技股份有限公司 · github.com/Celnet-AI
+北京雨花石云计算科技股份有限公司 · github.com/Celnet-AI
